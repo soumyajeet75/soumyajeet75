@@ -21,7 +21,7 @@ You can find me on [![Twitter][1.2]][1]
 
 <html>
   <h1> SOFTWARE ENGINEER AT LOGICMONITOR
-    <img src=soumyajeet75/hello/pic.png>
+    <img src=/hello/pic.png>
     </html>
 
 
