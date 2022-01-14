@@ -20,7 +20,7 @@ You can find me on [![Twitter][1.2]][1]
 [2]: https://www.linkedin.com/in/soumyajeetrock
 
 <html>
-  <h2> Software Engineer at LogicMonitor
+  <h2> Software Engineer at <a href="https://github.com/soumyajeet75/CODE_IMG/blob/main/LM.png" target="blank"><img align="center" src="https://github.com/soumyajeet75/CODE_IMG/blob/main/LM.png" height="70" /></a>
    <br>
   <h2> Ex-Cgnizant, Ex-Apisero, Ex-Opulence
   </html>
