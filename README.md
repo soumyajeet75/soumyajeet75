@@ -3,4 +3,4 @@
 - 🌱 I’m currently working as a Software Engineer @ LogicMonitor
 - 💞️ I’m looking to collaborate on ...@GitHub
 - 📫 How to reach me ...
- ![Book logo](/least-github-pages/assets/logo.png)
+ ![My logo](/soumyajeet75/SOUMYAJEET BHATTACHARJEE.png)
