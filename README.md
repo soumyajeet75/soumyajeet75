@@ -25,4 +25,4 @@ You can find me on [![Twitter][1.2]][1]
   <h2> Ex-Cgnizant, Ex-Apisero, Ex-Opulence
   </html>
 
-<a href="https://github.com/soumyajeet75/hello/blob/master/pic.png" target="blank"><img align="center" src="https://github.com/soumyajeet75/hello/blob/master/pic.png" height="500" /></a>
+<a href="https://github.com/soumyajeet75/hello/blob/master/pic.png" target="blank"><img align="center" src="https://github.com/soumyajeet75/hello/blob/master/pic.png" height="400" /></a>
