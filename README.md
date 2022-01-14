@@ -3,7 +3,8 @@
 - 🌱 I’m currently working as a Software Engineer @ LogicMonitor
 - 💞️ I’m looking to collaborate on ...@GitHub
 
-- 
+- # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1]
