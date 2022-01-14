@@ -21,8 +21,7 @@ You can find me on [![Twitter][1.2]][1]
 
 <html>
   <h1> SOFTWARE ENGINEER AT LOGICMONITOR
+    <img src=soumyajeet75/hello/pic.png>
     </html>
 
-
-img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
