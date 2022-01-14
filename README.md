@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as a Software Engineer @ LogicMonitor
 - 💞️ I’m looking to collaborate on ...@GitHub
 - 📫 How to reach me ...
-<img sr ="SOUMYAJEET BHATACHARJEE.png" height="240" width="480">
+<img sr ="SOUMYAJEET BHATTACHARJEE.png" height="240" width="480">
 <!---
 soumyajeet75/soumyajeet75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
