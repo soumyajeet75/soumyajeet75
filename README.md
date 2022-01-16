@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soumyajeet
 - 👀 I’m interested in ...Learning New Tech Related Stuffs
 - 🌱 I’m currently working as a Software Engineer @ LogicMonitor
-- 💞️ I’m looking to collaborate on ...@GitHub
+- 💞️ I’m looking to collaborate on ...@Youtube----contact me on soumyajeet75@gmail.com
 
 - # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
