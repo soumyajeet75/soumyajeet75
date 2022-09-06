@@ -22,7 +22,7 @@ You can find me on [![Twitter][1.2]][1]
 <html>
   <h2> Software Engineer at <a href="https://github.com/soumyajeet75/CODE_IMG/blob/main/LM.png" target="blank"><img align="center" src="https://github.com/soumyajeet75/CODE_IMG/blob/main/LM.png" height="70" /></a>
    <br>
-  <h2> Ex-<a href="https://github.com/soumyajeet75/CODE_IMG/blob/main/cogni.jpg" target="blank"><img align="center" src="https://github.com/soumyajeet75/CODE_IMG/blob/main/cogni.jpg" height="60" /></a>, Ex-<a href="https://github.com/soumyajeet75/CODE_IMG/blob/main/Apisero_logo.png" target="blank"><img align="center" src="https://github.com/soumyajeet75/CODE_IMG/blob/main/Apisero_logo.png" height="60" /></a>, Ex-<a href="https://github.com/soumyajeet75/CODE_IMG/blob/main/opu.png" target="blank"><img align="center" src="https://github.com/soumyajeet75/CODE_IMG/blob/main/opu.png" height="60" /></a>
+  <h2> Ex-<a href="https://github.com/soumyajeet75/CODE_IMG/blob/main/cogni.jpg" target="blank"><img align="center" src="https://github.com/soumyajeet75/CODE_IMG/blob/main/cogni.jpg" height="60" /></a>, Ex-<a href="https://github.com/soumyajeet75/CODE_IMG/blob/main/opu.png" target="blank"><img align="center" src="https://github.com/soumyajeet75/CODE_IMG/blob/main/opu.png" height="60" /></a>
    
   </html>
  <br>
